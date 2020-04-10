@@ -1,0 +1,22 @@
+{
+  "name": "aliyun-vod-upload-ts",
+  "version": "1.0.0",
+  "description": "Aliyun vod package, typescript supported",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephoton/aliyun-vod-upload-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephoton/aliyun-vod-upload-ts/issues"
+  },
+  "homepage": "https://github.com/ephoton/aliyun-vod-upload-ts#readme",
+  "devDependencies": {
+    "@types/node": "^13.11.1"
+  }
+}

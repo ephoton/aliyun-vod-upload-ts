@@ -1,0 +1,26 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esNext",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "strictNullChecks": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "stripInternal": true,
+    "skipDefaultLibCheck": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "lib": ["es6", "dom"],
+    "newLine": "LF",
+    "outDir": "dist"
+  },
+  "exclude": ["index.js", "node_modules"]
+}
